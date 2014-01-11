@@ -1,0 +1,44 @@
+== Overview
+
+=== When
+
+Same time as the main game.
+
+
+=== Where
+
+The Kingdom of Benimar, one of the Hundred Kingdoms, between Metagalapa and the river.  The capital is High Mar.
+
+See wiki for some rough spec of the kingdom/city, in terms of tech level and number of people.
+
+
+=== Who
+
+Group are permanently or regularly attached to or employed by the government, for diplomatic, spying, military or similar purposes.  They will have some loyalty to the kingdom, some previous interaction, and some (free) Contacts, Backing, Influence, or similar.  Also some free Resources.
+
+
+=== Why
+
+The kingdom is concerned about threats of one sort or another from Dragon-Blooded to the West and East, in addition to the usual weak alliances among the Hundred.  Events on a Creation-wide scale have passed them by so far, so they're ignoring them.  They want an edge, //in extremis// to use it themselves against either force, but more likely to offer to one or other in return for alliance and protection.
+
+
+=== What
+
+They're being sent undercover along with a caravan trading to Great Forks. Their ostensible mission is to buy some slaves, now that the Guild is getting out of the business, because Benimar reckon they can still get some use out of them -- at worst as cannon fodder, but generally to improve infrastructure, or maybe they'll follow the Guild's free-and-train lead, if that's useful or appeals to the relevant potential ally.  They really do want to do this, but the real mission is to follow up intelligence about some bio-magitech substance or recipe south of the river.
+
+The location will turn out to be the moonsilver manse, if the group ever makes it that far.  The substance will be a potion which gives a group coordination bonuses in war, a bit like the Torcs of Unified Action -- of slight benefit to DB forces.  Getting it out of the manse ...???
+
+They will also at some point encounter an outbreak of Contrariety, which they may think is what they're looking for, but it's not.  They might find a way to bottle & sell it, though!  Some Bronze Faction Sidereals may be trying to make it look like the Lunars, to damage their reputation.  DBs from the Pole of Glass may be accidentally spreading it more, given their unrestrained passions.
+
+The mission they'll be nudged towards, however, is to get into the //starmetal// manse, and "fix" the Mask.  My intention is that this will restore people's memories of the Sidereals in general.  Specifics will still be muddy, and past/future encounters using Resplendencies will still be as hard to remember.
+
+
+// ---------------------------------------------------------------------------
+
+== Character generation
+
+* XP suggestions
+
+* Suggestions for combat and other per-ability starting Charm selections.
+
+* Maybe also an ST-chosen bit of Background for each?  E.g., an Echo of Lasuna or somebody, so they can get into the moonsilver manse.

@@ -1,0 +1,76 @@
+Name: 
+Division: Anchor
+Parametadivision: 
+
+Attributes:
+1 each + 8/6/4
+Str 3, Dex 4, Sta 4
+Cha 3, Man 3, App 1
+Per 3, Int 2, Wit 4
+
+(4 x 1) + 5
+Valor 2 Conviction 3 Temperance 1 Compassion 3
+Intimacies: (WP + Conviction)
+
+Essence: 3
+Willpower: 7
+Essence Pool:
+* Personal: 15 [2.5 x Ess + WP]
+* Peripheral: 31 [5 x Ess + WP + Sum(Virtues)]
+
+Health: -0/-1/-1/-2/-2/-2/-4/-4/-4/-4/Incap
+
+3+5 Div+Fav
+10
++18
+*Athletics 1, *Awareness 3, Martial Arts 0, Sail 1, *Survival 5
+*Archery 2, Investigation 1, Medicine 2, Performance 0, *Ride 3
+Linguistics 1, Melee 1, *Presence 1, Socialize 1, War 1
+*Dodge 1, Larceny 0, Occult 1, Thrown 0, *Stealth 3
+Bureaucracy 0, Craft 0, Integrity 1, Lore 1, Resistance 1
+
+[As mortal, needed Survival 5 & Ride 3 for warhawk.]
+
+-> 28
+
+Charms 10 (10)
+Awareness: XXX Excellency; Sense-Hopping Excursion
+Survival: XXX Excellency; Way of the Cloven Hoofprint; Fang-and-Feather Aura
+[; Whistling in the Darkness]
+Archery: XXX Excellency; Quiver of Sticks and Stones; Psychedelic Peacock Shot
+Ride: Instinctive Stallion Sympathy [; Mount-Promoting Touch; Pigeon Rehoming
+Method]
+[Stealth: Hidden in Plain Sight Attitude; Yeddim Whitewash Trick]
+Resistance: Chao Body Technique (-2/-4)
+
+Languages: Riverspeak, Forest-tongue
+
+Specialties:
+Occult: Wood Spirits (2), Air Spirits (1)
+War: Aerial reconnaissance and analysis (2)
+
+
+Backgrounds:
+Familiar 5 (warhawk)
+
+Bonus Points: 23
+Trait		Cost
+Attribute	4
+Ability		2 (1 for Div/Fav)
+Background	1 (2 if raised above 3)
+Specialty	1 (2 per 1 for Div/Fav)
+Virtue		3
+Willpower	2
+Essence		9
+Charms	   	6 (4 if Divisional or Favored)
+
+Bonus point spend: 23
+Ess 2 -> 3: 9
+Willpower 5 -> 7: 4
+Awareness 1 -> 3: 2
+Archery 1 -> 2: 1
+Background (Familiar) 0 -> 5: 7
+Specialty (Occult (Air spirits)) 0 -> 1: 1
+
+TODO: Weapons (longbow, knives), armour (breastplate), spyglass,
+Backing, Contacts?, Resources 2.

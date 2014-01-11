@@ -1,0 +1,80 @@
+== Events and Encounters
+
+=== Introductory background
+
+You're all Heroic Mortals, living in and working for the Kingdom of Benimar.
+
+You all have some positive connection to at least one other PC, and to the Kingdom.
+
+On a Friday evening, you receive a summons to meet the following Monday morning (middle of Ascending Air, RY 772) in an office of the Ministry for Trade and Infrastructure.
+
+(Leaving time for the characters to chat/prep over the weekend if they want.)
+
+
+=== Mission briefing
+
+The group will be summoned to meet Arnik Eballan, an Officer for the Southern District of the Benimar Constabulary (known to Ash, maybe others). With him will be Cayter Merridee, a Deputy Effector in the Planning Department of the Ministry for Trade and Infrastructure. 
+
+The group is told that they're going on a secret mission for the kingdom (see above).  They'll receive a cryptic map -- it has an "X marks the spot" but lacks comprehensible context, plus hints which point to somewhere further south.  The kingdom got this from a local marsh god, who has it on good authority that it leads to a recipe and/or samples of a potion, known as "Elixir of Concard", which could have military applications, and allegedly uses ingredients found in or near Benimar.  What exactly it does is unknown, however.  They're expected to make contact with priests of a related god there.  (TODO: Maybe the god doesn't know, but its temple has some connection to their map?  Maybe the god has some Lunar backing, which is when they pick up a Lunar "tail" ...)
+
+Should avoid other kingdoms finding out.  Should keep ears open for anything else which might be trade-able for protection.
+
+
+They'll be travelling with a caravan of about 20 other people, which will have the help of a minor god of regional trade routes, who is attached to a larger group.  Basically this doubles their movement rate to about 15-20 miles per day, and may give them an edge in negotiations.  No special combat skills, but may be able to cause mishaps for pursuers, etc. They're expected to reach Great Forks in about 2 months, assuming no issues.
+
+They'll be carrying fabrics, dyes, rare herbs and spices, some regional magical ingredients, and samples of some alloys forged by smiths who settled in Benimar after fleeing Metagalapa.  Their ostensible mission is to buy some slaves, now that the Guild is getting out of the business, because Benimar reckon they can still get some use out of them -- at worst as arrow fodder, but generally to improve infrastructure, or maybe they'll follow the Guild's free-and-train lead, if that's useful or appeals to the relevant potential ally.  They really do want to do this, but the real mission is to follow up intelligence about some bio-magitech substance or recipe south of the river.
+
+The kingdom has a connection to an outcaste DB based in Great Forks, named Latan Weyzo, who will make contact with them.  He won't be directly involved but should be able to provide them with help / extraction in an emergency.  (Obviously, the PCs will be at least as powerful as that ally by then, but they don't know that.)
+
+They're also given a "second level" cover story, in case someone works out that they're not just trading; namely, that they're looking for an "in" with the Confederacy, possibly via buying into the great Lady Risha's "free slaves and train them" Academy system.  (Yes, that's not quite what the system is, but they're slightly mis-informed.)
+
+
+=== Travel prep
+
+A spy from another kingdom will engineer sickness in one of the grooms and try to replace them at the last minute.  The group is free to be suspicious about the replacement.  He's a moderately skilled mortal spy, strictly on a listen-and-report brief.
+
+
+=== Other caravans
+
+Some other caravans will be going the same way, or to/through Benimar.  Some banter and even trading may ensue.  These folks are not spies, but some are very nosy.  (What might they be trading?  Drugs from Great Forks, obviously; Autochthonian tech from Marita, including one or two crossbows; alleged and actual minor thaumaturgy; Realm (and maybe Malfean) delicacies from Melevhil.)
+
+
+=== Pilgrim on the road
+
+A female Chosen of Endings (Unma in Sable) will appear on the road before the group, in the guise of a pilgrim.  She's wearing a few layers of soft but tattered dark cloaks, and has her face painted in a strange mix of styles, reminiscent ofa few different gods' emblems.  She will say nothing unless hailed, and not much even then.  She's heading to Great Forks to pay homage to the Goddess of Something-or-Other.  ("Ha'n't decided yet.  D'pends what's pop'lar when I gets there.")
+
+She, along with Kolrei and others, saw something about this to-be-exalted group before he left Yu-Shan, and she wants to suss them out. She doesn't know that exaltation is coming; the Loom just showed their strands (and others) seeming to have a strange gap, happening soon but she's not sure when.  She may slap a Destiny on one, but will be gone before they exalt.  She may talk about mysteries and secrets, making them nervous; but, though she has some idea about their mission, she's not interested in that.  In fact, she believes the gap is to be caused by an event, not tied to them, so she's generally combing the area.  The event is their exaltation, and she'll miss it.  Kolrei is watching covertly, via Mask magic.  (He may see the exaltation but will struggle to remember it.)
+
+
+=== Exaltation
+
+Some time when their caravan is travelling alone, they'll come across three late-teens (two men, one woman), looking healthy but poor, doing a bad job of hiding from them.  One will rush out, to the exasperation of the others, and ask for the group's help.  They're runaway slaves!  They were being taken by their masters, "a demon-worshipping wunch of b*nkers", to be sold in Great Forks, "that terrible drug-crazed city".
+
+Further questioning will reveal that the group are all second-generation slaves, whose parents were themselves enslaved for ... capturing Silver River's family and selling them into slavery.  When that past act became inconvenient, the agents were discarded by their mysterious backers, tried, and -- when they proved unwilling or unable to reveal their reasons, sentenced to slavery.  The group will also learn (if they haven't worked it out) that their current owners are Ragara ... and just as that happens, who should come riding over the hill, but a younger Speyna, Indoa (Essence 2).
+
+Indoa will demand the return of her family's property, showing certificates of ownership etc.  Before the group really gets a chance to respond or argue ...
+
+Suddenly, everything freezes in place, except for the group, who are surrounded by a warm and impossibly fuzzy glow.  The edges of a formation of rocks, small trees, and sunlight will all of a sudden make the shape of woman, who will speak to them.  "Slaves?  You are all slaves!  Slaves to logic, order, and common sense.  Except for you, you lucky, lucky five -- ha, ha!  I charge you with freeing them all!  Goodnight!"  Then she'll disappear and time will re-start, with Indoa still expecting instant compliance from mortals, and not having noticed anything.
+
+Up to the group what to do next.  If they hand over the slaves, one will shout curses at them all, whereupon Indoa will beat him down, and make to cut out his tongue, "like your worthless father!"  If/when they intervene ... Indoa would have been happy to take on a handful of mortals, but not five mystery Exalts.  She'll flee for reinforcements but, frankly, even with two more DBs and some mercenaries, Moro will quickly decide they're out-matched and pull back.  He would abandon the trio as a bad loss, since he has other slaves, but he's worried they might know of his plans, or draw unwanted attention.  (TODO: Not sure what he should do next.)
+
+If the get into a fight, Ghost Dog may show up, mainly looking to hold the group back until the Speyna can flee.  He'll then use //Vanishing from Mind's Eye Method// to try to make the group forget him.
+
+==== End-of-session ideas
+
+Veliki jumped the DB from behind.  Could have her Daiklave scabbard belt snap, whereupon Veliki falls back and rolls to standing.  She curses the poverty of her family and consequent poor equipment, not realising why it snapped, giving the group a moment to try another tack (if John will allow it ;-).
+
+
+
+=== Meet some DBs from Pole of Glass (optional)
+
+The now-cabal may come across a strange copse of crystal trees.  They may take it for a manse or demesne, but in fact it's an intrusion from the Lands of Glass.  Some DBs (TODO: names, description) will be travelling through it, one of them carrying Contrariety and hence arguing with the others.  (Maybe on a trading/exploration foray, which was his idea, but now he thinks it's a terrible idea and they should be isolationist?  And the others are just confused ...)
+
+=== Meet a Guild representative (optional)
+
+Mayga; in Great Forks, or wherever else they end up.  Is looking for a profit any old way, as well as selling her duff slaves, and will happily deal with the cabal if it looks profitable ... or just as happily sell them out.  (TODO: details)
+
+=== Interference on the way
+
+Once they've sussed out where they're going from Great Forks, someone will get wind of it and try to stop/misdirect them.  (TODO: Who?  Autochthonians?)
+

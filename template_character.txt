@@ -1,0 +1,39 @@
+Name: 
+Division: Anchor, Arrow, Apple, Archway, Anchor
+Parametadivision: 
+
+Ess (2)
+WP (5)
+Essence Pool:
+* Personal 2.5 x Ess + WP
+* Peripheral 5 x Ess + WP + Sum(Virtues)
+
+Health: -0/-1/-1/-2/-2/-4/Incap
+
+1 each + 8/6/4
+Str Dex Sta 
+Cha Man App
+Per Int Wit
+
+3+5 Div+Fav
+10+18
+Athletics, Awareness, Martial Arts, Sail, Survival
+Archery, Investigation, Medicine, Performance, Ride
+Linguistics, Melee, Presence, Socialize, War
+Dodge, Larceny, Occult, Stealth, Thrown
+Bureaucracy, Craft, Integrity, Lore, Resistance
+
+(4 x 1) + 5
+Valor Conviction Temperance Compassion
+Intimacies: (WP + Conviction)
+
+Bonus Points: 23
+Trait		Cost
+Attribute	4
+Ability		2 (1 for Div/Fav)
+Background	1 (2 if raised above 3)
+Specialty	1 (2 per 1 for Div/Fav)
+Virtue		3
+Willpower	2
+Essence		9
+Charms	   	6 (4 if Divisional or Favored)
