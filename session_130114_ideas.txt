@@ -7,6 +7,23 @@ Retcons:
 * Started 1st wk Asc Air, not 2nd week; time now is ~end 2nd week.
 
 
+== Timed
+
+* Metagalapa
+* Scarlet Empress' scream, as ring is removed.
+
+
+== Triggered
+
+* Kolrei
+** Trigger: any PC shows signs of exaltation, after the exaltation scene.
+*** Leave note: "A friend is watching over you."
+*** Appear to PCs in private; intro self.
+*** Believes: PCs from Pole of Glass? (Not convinced.)
+*** Wants: non-Yu-Shan allies; exaltation info; prophecy info; Achthn contacts; Mask revealed.
+*** Offers: support; spying; starmetal weapon for Stands.
+
+
 == Exaltation
 
 * Veliki jumped Indoa from behind.
@@ -44,22 +61,6 @@ Some DBs (TODO: names, description) will be travelling out through it, looking f
 (Later, once the Contrariety develops, the one who suggested the foray decides it's a terrible idea and they should be isolationist.  And the others are just confused.  The PCs may meet them again south of the Yellow River, near another deposit.)
 
 
-== Triggered
+== TODO
 
-* Kolrei
-** Trigger: any PC shows signs of exaltation, after the exaltation scene.
-*** Leave note: "A friend is watching over you."
-*** Appear to PCs in private; intro self.
-*** Believes: PCs from Pole of Glass? (Not convinced.)
-*** Wants: non-Yu-Shan allies; exaltation info; prophecy info; Achthn contacts; Mask revealed.
-*** Offers: support; spying; starmetal weapon for Stands.
-
-
-=== Meet a Guild representative (optional)
-
-Mayga; in Great Forks, or wherever else they end up.  Is looking for a profit any old way, as well as selling her duff slaves, and will happily deal with the cabal if it looks profitable ... or just as happily sell them out.  (TODO: details)
-
-=== Interference on the way
-
-Once they've sussed out where they're going from Great Forks, someone will get wind of it and try to stop/misdirect them.  (TODO: Who?  Autochthonians?)
-
+* Read up on Great Forks.  Compass I - Scavenger Lands: Ch. 4, plus Ch. 8 p. 139+ for gods.  Dayshield most likely.
