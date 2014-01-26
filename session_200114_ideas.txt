@@ -48,6 +48,7 @@ in Creation should know what they did, in case the Quincunx falls";
 * News
 ** Metagalapa started moving!
 ** Ancestor shrines burning.
+** Letter from Kolrei?
 
 
 === Meet some DBs from Pole of Glass (optional)
