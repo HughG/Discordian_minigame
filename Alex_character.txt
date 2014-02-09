@@ -1,0 +1,161 @@
+[[div style="float: right"]]
+[[image your_picture_here.jpg]]
+[[=]]
+//(Your caption here.)//
+[[/=]]
+[[/div]]
+
+[[collapsible show="+ show as Heroic Mortal" hide="- hide as Heroic Mortal" hideLocation="both" folded="yes"]]
+
+[[include character-name-mortal]]
+
+[[/collapsible]]
+
+[[collapsible show="+ show as Discordian" hide="- hide as Discordian" hideLocation="both" folded="no"]]
+[[size larger]]**Divison:** 3rd (Apple)[[/size]]
+
+**Parametadivision:** The Indivisibles
+
+**Anima Banner:**
+* Discordian: TODO
+* Raksha pseudo-anima: TODO
+
+[[size larger]]**Motivation:**[[/size]]
+TODO
+
+[[size larger]]**Intimacies:**[[/size]] [!-- Willpower + Conviction --]
+[!--
+* object (flavour)
+* ...
+--]
+
+[[size larger]]**Attributes:**[[/size]]
+[!-- 1 each + 8/6/4 --]
+Str 2, Dex 4, Sta 3
+Cha 4, Man 4, App 3
+Per 3, Int 2, Wit 3
+
+[[size larger]]**Virtues:**[[/size]]
+[!-- (4 x 1) + 5 --]
+Compassion 3, Conviction 3, Temperance 2, Valor 1
+
+[[size larger]]**Essence:**[[/size]] 3
+[!-- I'd suggest buying up to 3 with Bonus Points --]
+Essence Pool:
+* Personal: 15 [!-- 2.5 x Ess + WP --]
+* Peripheral: 31 [!-- 5 x Ess + WP + Sum(Virtues) --]
+* Committed: 0
+
+[[size larger]]**Willpower:**[[/size]] 7 [!-- Two highest Virtues --]
+[!-- I'd suggest buying up a bit with Bonus Points --]
+
+[[size larger]]**Health Levels:**[[/size]]
+-0/-1/-1/-2/-2/-4/Incap
+
+[[size larger]]**Abilities:**[[/size]]
+[!--
+Choose 3 Divisional and 5 Favoured, and spend 10 dots on these, at least one in each.
+Spend a further 18 dots, plus 4 dots of Specialties.
+--]
+*Athletics 3, Awareness 1, Martial Arts 0, Sail 1, Survival 1
+Archery 0, Investigation 0, Medicine 1, *Performance 4, Ride 1
+*Linguistics 1, Melee 0, *Presence 2, *Socialize 3, War 0
+Dodge 0, *Larceny 3, Occult 0, Stealth 0, *Thrown 3
+Bureaucracy 1, Craft 0, *Integrity 3, Lore 1, Resistance 1
+
+[!-- **Crafts:** None --]
+**Languages:** Riverspeak, Forest-tongue [!-- + 1 per dot of Linguistics --]
+**Specialties:** [!-- 4 --]
+Lore: Stories and Legends (2)
+Athletics: Acrobatics (2)
+
+[[size larger]]**Charms:**[[/size]] [!-- 10 --]
+Athletics: Flawless Footstep Meditation, Ground-Avoiding Step
+Performance: 1st Excellency, March Into Temptation
+Larceny: Instact Image Improvisation
+Socialize: Moral Compass Calibration, Flock-Gulling Instigation
+Thrown: 1st Excellency, Doorknob and Donkey Barrage
+Integrity: Unbalanced Mind Defence, Subtle Daydream Concoction
+
+[!--
+[[size larger]]**Spells:**[[/size]]
+--]
+
+[[size larger]]**Backgrounds:**[[/size]] [!-- 10 --]
+*Artifact:* Gossamer Sky-Cutter (2) (+1 to Accuracy; automatic 2 succ on
+reflexive Dex + Thr to cause it to return) [!-- Core p388, GWM p194 --],
+Silken Armor (2)
+*Contacts:* [Someone in Great Forks?] (1), [Someone further South/East?] (1)
+*Cult:* Slaves to Absurdity (1)
+*Followers:* Circus Troupe (1)
+*Resources:* Manumission credit surplus (2)
+*Pineal Gland:* 2
+*Echoes:* ??? (1)
+
+[[size larger]]**Notable Equipment:**[[/size]]
+
+[[[Character Name Combat 2.5]]]
+
+[[/collapsible]]
+
+[[size larger]]**Experience:**[[/size]]
+
+[!--
+Bonus Points: 23
+Trait Cost
+Attribute 4
+Ability 2 (1 for Div/Fav)
+Background 1 (2 if raised above 3)
+Specialty 1 (2 per 1 for Div/Fav)
+Virtue 3
+Willpower 2
+Essence 9
+Charms 6 (4 if Divisional or Favored)
+--]
+
+[[collapsible show="+ show Bonus Point log" hide="- hide Bonus Point log" hideLocation="both" folded="yes"]]
+Bonus point spend: 23/23
+Essence 2 -> 3 [9]
+Performance 3 -> 4 [1]
+Integrity 2 -> 3 [1]
+Willpower 6 -> 7 [2]
+Perception 2 -> 3 [4]
+Charm (Socialize): Flock-Gulling Instigation [4]
+Artifact: Gossamer Sky-Cutter (2) [2]
+[[/collapsible]]
+
+[[collapsible show="+ show XP log" hide="- hide XP log" hideLocation="both" folded="yes"]]
+XP spend: 0/40 (40 unspent)
+Backgrounds: Echoes 0 -> 1 [free]
+[[/collapsible]]
+
+[[collapsible show="+ show Wish List" hide="- hide Wish List" hideLocation="both" folded="yes"]]
+Charm (Presence): Softening of Suasion [10]
+Charm (Thrown): Shadow-Throwing Style [10]
+Charm (Linguistics): Mondo Moment [10]
+Charm (Linguistics): Everybody Knows Shapes [10]
+Charm (Socialize): 1st Excellency [10]
+Charm (Socialize): Epidemic Expression Genesis [10]
+Charm (Presence): One Plus One Makes Three [10]
+Charm (Integrity): Idiosyncratic Interpretation of Valor (Physical Risk) [10]
+Charm (Integrity): Idiosyncratic Interpretation of Compassion (Freeing People from Constraints) [10]
+Charm (Athletics): 1st Excellency [10]
+Charm (Performance): Implausible Improvisation [10]
+Athletics: 3 -> 5
+Charm (Athletics): Moment of Perfect Gravity [10]
+Charm (Thrown): Another Dragon's Claws [10]
+Charm (Thrown): Pebble Proxy Propulsion [10]
+Thrown: 3 -> 4
+Charm (Thrown): Evasion Vector Response [10]
+Charm (Thrown): Dart Diversion Tactic [10]
+Charm (Athletics): Balanced Unbalance [10]
+Charm (Athletics): Equilibrium Catapult [10]
+Socialize: 3 -> 4
+Charm (Socialize): Fleeting Parley Tactic [10]
+Charm (Larceny): 1st Excellency [10]
+Charm (Larceny): Notion Relocation Method [10]
+Charm (Larceny): Subtle Transfiguration Knack [10]
+Larceny 3 -> 4
+Charm (Larceny): Inhuman Countenance Construction [10]
+
+[[/collapsible]] 
